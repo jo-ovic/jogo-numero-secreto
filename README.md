@@ -13,7 +13,7 @@ Este projeto foi criado com o objetivo de:
 
 ## Funcionalidades
 
-- **Gerar Número Aleatório**: O sistema gera um número entre 1 e 100 a cada nova partida.
+- **Gerar Número Aleatório**: O sistema gera um número entre 1 e 10 a cada nova partida.
 - **Verificação de Palpite**: Informa se o palpite do jogador é maior ou menor que o número correto.
 - **Controle de Tentativas**: Exibe o número de tentativas realizadas.
 - **Mensagem de Sucesso**: Exibe uma mensagem especial quando o jogador acerta o número.
